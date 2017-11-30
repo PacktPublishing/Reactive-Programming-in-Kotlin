@@ -1,4 +1,4 @@
-package com.rivuchk.packtpub.reactivekotlin.chapter08
+package com.rivuchk.packtpub.reactivekotlin.chapter09
 
 import io.reactivex.Observable
 

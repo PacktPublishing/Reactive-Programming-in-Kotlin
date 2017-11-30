@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="chapter01_main" target="1.8" />
+      <module name="chapter01_test" target="1.8" />
+      <module name="chapter02_main" target="1.8" />
+      <module name="chapter02_test" target="1.8" />
+      <module name="chapter03_main" target="1.8" />
+      <module name="chapter03_test" target="1.8" />
+      <module name="chapter04_main" target="1.8" />
+      <module name="chapter04_test" target="1.8" />
+      <module name="chapter05_main" target="1.8" />
+      <module name="chapter05_test" target="1.8" />
+      <module name="chapter06_main" target="1.8" />
+      <module name="chapter06_test" target="1.8" />
+      <module name="chapter07_main" target="1.8" />
+      <module name="chapter07_test" target="1.8" />
+      <module name="chapter11_main" target="1.8" />
+      <module name="chapter11_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
