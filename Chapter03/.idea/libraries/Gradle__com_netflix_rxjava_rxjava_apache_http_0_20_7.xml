@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.netflix.rxjava:rxjava-apache-http:0.20.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.rxjava/rxjava-apache-http/0.20.7/a985ebb6db7c92d329efc5f2bae402409dcff7ec/rxjava-apache-http-0.20.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.rxjava/rxjava-apache-http/0.20.7/6ba33a14a12b93a42f44537580bba27f54beef3e/rxjava-apache-http-0.20.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
