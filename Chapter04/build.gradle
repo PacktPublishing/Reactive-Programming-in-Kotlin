@@ -1,4 +1,4 @@
-group 'com.rivuchk.packtpub.reactivekotlin.chapter02'
+group 'com.rivuchk.packtpub.reactivekotlin.chapter04'
 version '1.0'
 
 buildscript {
