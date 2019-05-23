@@ -1,4 +1,4 @@
-package com.rivuchk.packtpub.reactivekotlin.chapter8
+package com.rivuchk.packtpub.reactivekotlin.chapter08
 
 fun add(a:Int, b:Int):Int = a+b
 fun substract(a:Int, b:Int):Int = a-b

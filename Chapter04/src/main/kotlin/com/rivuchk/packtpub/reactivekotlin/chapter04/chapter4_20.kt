@@ -1,7 +1,6 @@
 package com.rivuchk.packtpub.reactivekotlin.chapter04
 
 import io.reactivex.Flowable
-import org.reactivestreams.Subscriber
 
 fun main(args: Array<String>) {
     val flowable = Flowable.range(1,111)

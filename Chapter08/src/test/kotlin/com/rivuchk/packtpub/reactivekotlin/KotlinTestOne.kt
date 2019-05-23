@@ -1,8 +1,6 @@
 package com.rivuchk.packtpub.reactivekotlin
 
-import io.reactivex.Observable
 import org.junit.Test
-import java.util.concurrent.TimeUnit
 import kotlin.test.assertEquals
 
 class TestClass {

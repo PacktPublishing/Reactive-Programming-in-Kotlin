@@ -2,8 +2,6 @@ package com.rivuchk.packtpub.reactivekotlin.chapter09
 
 import io.reactivex.Observable
 import java.io.Closeable
-import io.reactivex.ObservableSource
-import java.util.concurrent.Callable
 
 
 

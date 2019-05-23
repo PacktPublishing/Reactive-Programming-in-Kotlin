@@ -1,7 +1,6 @@
 package com.rivuchk.packtpub.reactivekotlin.chapter02
 
 import com.rivuchk.packtpub.reactivekotlin.join
-import kotlinx.coroutines.experimental.runBlocking
 import kotlin.coroutines.experimental.buildSequence
 
 /**

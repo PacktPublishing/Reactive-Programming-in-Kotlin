@@ -1,9 +1,6 @@
 package com.rivuchk.packtpub.reactivekotlin.chapter04
 
-import io.reactivex.schedulers.Schedulers
-import io.reactivex.Flowable
 import io.reactivex.rxkotlin.toFlowable
-import io.reactivex.rxkotlin.toObservable
 import kotlinx.coroutines.experimental.delay
 import kotlinx.coroutines.experimental.runBlocking
 

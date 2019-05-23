@@ -3,7 +3,6 @@ package com.rivuchk.packtpub.reactivekotlin.chapter04
 import io.reactivex.Flowable
 import kotlinx.coroutines.experimental.delay
 import kotlinx.coroutines.experimental.runBlocking
-import org.reactivestreams.Subscriber
 import java.util.concurrent.TimeUnit
 
 fun main(args: Array<String>) {

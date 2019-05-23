@@ -10,7 +10,7 @@ import io.reactivex.subjects.Subject
  */
 
 fun main(args: Array<String>) {
-    var subject: Subject<Int> = PublishSubject.create()
+    val subject: Subject<Int> = PublishSubject.create()
 
     subject.map({ isEven(it) }).subscribe({println("The number is ${(if (it) "Even" else "Odd")}" )})
 

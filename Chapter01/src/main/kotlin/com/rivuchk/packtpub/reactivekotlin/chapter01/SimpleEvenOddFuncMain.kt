@@ -9,6 +9,7 @@ fun main(args: Array<String>) {
     var isEven = isEven(number)
     println("The number is " + (if (isEven) "Even" else "Odd"))
     number = 9
+    isEven = isEven(number)
     println("The number is " + (if (isEven) "Even" else "Odd"))
 }
 

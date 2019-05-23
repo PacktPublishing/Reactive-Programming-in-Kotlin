@@ -2,7 +2,6 @@ package com.rivuchk.packtpub.reactivekotlin.chapter05
 
 import io.reactivex.Observable
 import io.reactivex.rxkotlin.subscribeBy
-import io.reactivex.rxkotlin.toObservable
 
 fun main(args: Array<String>) {
     Observable.range(1,10)
