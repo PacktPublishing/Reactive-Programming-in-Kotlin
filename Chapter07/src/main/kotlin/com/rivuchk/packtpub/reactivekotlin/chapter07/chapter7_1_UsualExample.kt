@@ -1,11 +1,8 @@
-package com.rivuchk.packtpub.reactivekotlin.chapter7
+package com.rivuchk.packtpub.reactivekotlin.chapter07
 
 import io.reactivex.Observable
-import io.reactivex.rxkotlin.zipWith
-import io.reactivex.schedulers.Schedulers
 import kotlinx.coroutines.experimental.delay
 import kotlinx.coroutines.experimental.runBlocking
-import java.util.concurrent.TimeUnit
 
 fun main(args: Array<String>) {
     Observable.range(1,10)

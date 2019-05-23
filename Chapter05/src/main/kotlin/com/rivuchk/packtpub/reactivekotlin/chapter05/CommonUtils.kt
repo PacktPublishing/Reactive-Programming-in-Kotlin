@@ -1,7 +1,5 @@
 package com.rivuchk.packtpub.reactivekotlin.chapter05
 
-import io.reactivex.Observable
-
 /**
  * Created by Rivu Chakraborty on 11-07-2017.
  */

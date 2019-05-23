@@ -1,7 +1,5 @@
 package com.rivuchk.packtpub.reactivekotlin.chapter02
 
-import kotlinx.coroutines.experimental.CommonPool
-import kotlinx.coroutines.experimental.async
 import kotlinx.coroutines.experimental.delay
 import kotlinx.coroutines.experimental.runBlocking
 import java.util.concurrent.TimeUnit

@@ -1,7 +1,6 @@
 package com.rivuchk.packtpub.reactivekotlin.chapter02
 
 import kotlinx.coroutines.experimental.*
-import kotlin.coroutines.experimental.CoroutineContext
 
 
 /**
@@ -94,7 +93,7 @@ class ReactiveCalculator(a:Int, b:Int) {
 
 fun main(args: Array<String>) {
     println("Initial Out put with a = 15, b = 10")
-    var calculator: ReactiveCalculator = ReactiveCalculator(15, 10)
+    val calculator: ReactiveCalculator = ReactiveCalculator(15, 10)
 
 
 

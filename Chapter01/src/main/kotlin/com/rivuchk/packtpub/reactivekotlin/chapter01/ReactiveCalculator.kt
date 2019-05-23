@@ -92,7 +92,7 @@ class ReactiveCalculator(a:Int, b:Int) {
 
 fun main(args: Array<String>) {
     println("Initial Out put with a = 15, b = 10")
-    var calculator: com.rivuchk.packtpub.reactivekotlin.chapter1.ReactiveCalculator = com.rivuchk.packtpub.reactivekotlin.chapter1.ReactiveCalculator(15, 10)
+    val calculator: com.rivuchk.packtpub.reactivekotlin.chapter1.ReactiveCalculator = com.rivuchk.packtpub.reactivekotlin.chapter1.ReactiveCalculator(15, 10)
 
 
 

@@ -1,4 +1,4 @@
-package com.rivuchk.packtpub.reactivekotlin.chapter7
+package com.rivuchk.packtpub.reactivekotlin.chapter07
 
 import io.reactivex.Observable
 import io.reactivex.Scheduler

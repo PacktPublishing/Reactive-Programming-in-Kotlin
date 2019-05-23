@@ -1,4 +1,4 @@
-package com.rivuchk.packtpub.reactivekotlin.chapter7
+package com.rivuchk.packtpub.reactivekotlin.chapter07
 
 import io.reactivex.Observable
 import io.reactivex.schedulers.Schedulers
@@ -6,7 +6,6 @@ import kotlinx.coroutines.experimental.CommonPool
 import kotlinx.coroutines.experimental.async
 import kotlinx.coroutines.experimental.delay
 import kotlinx.coroutines.experimental.runBlocking
-import kotlin.coroutines.experimental.CoroutineContext
 
 fun main(args: Array<String>) {
 
